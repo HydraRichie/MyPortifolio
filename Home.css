@@ -1,0 +1,25 @@
+.Home
+{
+    height:60vh;
+    margin:7em;
+    background-color:whitesmoke;
+}
+.text
+{
+ font-size: larger;
+ font-style:italic;
+ 
+ padding: 8em;
+ position: absolute;
+ right: 28em;
+
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Yeah
+{
+color:black;
+position: absolute;
+bottom: 325px;
+right: 470px;
+font-style: oblique;
+}
